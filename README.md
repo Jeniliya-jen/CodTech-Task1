@@ -19,3 +19,7 @@ Use Python to fetch weather forecast data from a public API (OpenWeatherMap) and
 
 - A well-commented Python script
 - A visualization dashboard (temperature & humidity trends)
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/dcfeac25-753b-4850-8097-dff66dd51c21)
